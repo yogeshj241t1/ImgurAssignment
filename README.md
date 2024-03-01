@@ -19,3 +19,10 @@ This repository contains an Android application showcasing the implementation of
 <b>APIs Used:</b><br>
 
 <b>Imgur API:</b> Leverages the Imgur API (https://api.imgur.com/) for fetching and searching images.
+
+<b>Application Screen Shots:</b><br>
+<b>1) ListView:</b>![1_List_View](https://github.com/yogeshj241t1/ImgurAssignment/assets/161837152/dc852329-a6fa-4c5b-9767-913779a8c487)<br>
+<b>2) GridView:</b>![2_Grid_View](https://github.com/yogeshj241t1/ImgurAssignment/assets/161837152/86c0ec40-0fb7-4a64-b18e-15a91df28edf)<br>
+<b>3) Search Result:</b> ![3_Search_Result](https://github.com/yogeshj241t1/ImgurAssignment/assets/161837152/55a5dd74-11e5-47ae-8321-8afc18b09ffa)
+
+
